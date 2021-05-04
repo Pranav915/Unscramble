@@ -1,5 +1,6 @@
+package com.example.android.unscramble.ui.game
 
-
+import GameViewModel
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
